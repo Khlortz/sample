@@ -1,3 +1,0 @@
-sid     sname     srev     sdate
-1        rer       123      8/7/2023
-2        fgh       678      8/8/2023
